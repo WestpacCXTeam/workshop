@@ -1,0 +1,56 @@
+{
+	"checkbox-off": [
+		".checkbox-input + .checkbox-text:after"
+	],
+	"checkbox-off-disabled": [
+		".checkbox-input:disabled + .checkbox-text:after"
+	],
+	"checkbox-on": [
+		".checkbox-input:checked + .checkbox-text:after"
+	],
+	"checkbox-on-disabled": [
+		".checkbox-input:disabled:checked + .checkbox-text:after"
+	],
+	"atm": [
+		".icon-atm"
+	],
+	"calculator": [
+		".icon-calculator"
+	],
+	"calendar": [
+		".icon-calendar"
+	],
+	"camera": [
+		".icon-camera"
+	],
+	"message": [
+		".icon-message"
+	],
+	"mobile-pay": [
+		".icon-mobile-pay"
+	],
+	"notification": [
+		".icon-notification"
+	],
+	"paypass": [
+		".icon-paypass"
+	],
+	"quick-balance": [
+		".icon-quick-balance"
+	],
+	"service-bell": [
+		".icon-service-bell"
+	],
+	"settings": [
+		".icon-settings"
+	],
+	"shelf-menu": [
+		".icon-shelf-menu"
+	],
+	"to-mobile": [
+		".icon-to-mobile"
+	],
+	"symbol": [
+		"selector"
+	]
+}

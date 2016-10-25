@@ -1,0 +1,17 @@
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+*.codekit
+node_modules
+.tmp
+temp
+.sass-cache
+.idea
+_site
+validation-report.json
+validation-status.json
+jekyll/
+blender.log
+tests/zips/
+yarn.lock

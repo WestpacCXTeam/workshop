@@ -1,0 +1,69 @@
+.symbol-american-express { background-image: url('../img/american-express.png'); background-repeat: no-repeat; }
+
+.icon-atm,
+.symbol-atm { background-image: url('../img/atm.png'); background-repeat: no-repeat; }
+
+.icon-calculator,
+.symbol-calculator { background-image: url('../img/calculator.png'); background-repeat: no-repeat; }
+
+.icon-calendar,
+.symbol-calendar { background-image: url('../img/calendar.png'); background-repeat: no-repeat; }
+
+.icon-camera,
+.symbol-camera { background-image: url('../img/camera.png'); background-repeat: no-repeat; }
+
+.checkbox-input:disabled + .checkbox-text:after,
+.symbol-checkbox-off-disabled { background-image: url('../img/checkbox-off-disabled.png'); background-repeat: no-repeat; }
+
+.checkbox-input + .checkbox-text:after,
+.symbol-checkbox-off { background-image: url('../img/checkbox-off.png'); background-repeat: no-repeat; }
+
+.checkbox-input:disabled:checked + .checkbox-text:after,
+.symbol-checkbox-on-disabled { background-image: url('../img/checkbox-on-disabled.png'); background-repeat: no-repeat; }
+
+.checkbox-input:checked + .checkbox-text:after,
+.symbol-checkbox-on { background-image: url('../img/checkbox-on.png'); background-repeat: no-repeat; }
+
+.symbol-logo-alt { background-image: url('../img/logo-alt.png'); background-repeat: no-repeat; }
+
+.symbol-logo-phone { background-image: url('../img/logo-phone.png'); background-repeat: no-repeat; }
+
+.symbol-logo-tablet { background-image: url('../img/logo-tablet.png'); background-repeat: no-repeat; }
+
+.symbol-master-card { background-image: url('../img/master-card.png'); background-repeat: no-repeat; }
+
+.icon-message,
+.symbol-message { background-image: url('../img/message.png'); background-repeat: no-repeat; }
+
+.icon-mobile-pay,
+.symbol-mobile-pay { background-image: url('../img/mobile-pay.png'); background-repeat: no-repeat; }
+
+.icon-notification,
+.symbol-notification { background-image: url('../img/notification.png'); background-repeat: no-repeat; }
+
+.icon-paypass,
+.symbol-paypass { background-image: url('../img/paypass.png'); background-repeat: no-repeat; }
+
+.icon-quick-balance,
+.symbol-quick-balance { background-image: url('../img/quick-balance.png'); background-repeat: no-repeat; }
+
+.icon-service-bell,
+.symbol-service-bell { background-image: url('../img/service-bell.png'); background-repeat: no-repeat; }
+
+.icon-settings,
+.symbol-settings { background-image: url('../img/settings.png'); background-repeat: no-repeat; }
+
+.icon-shelf-menu,
+.symbol-shelf-menu { background-image: url('../img/shelf-menu.png'); background-repeat: no-repeat; }
+
+.symbol-store-apple { background-image: url('../img/store-apple.png'); background-repeat: no-repeat; }
+
+.symbol-store-google { background-image: url('../img/store-google.png'); background-repeat: no-repeat; }
+
+.symbol-store-windows { background-image: url('../img/store-windows.png'); background-repeat: no-repeat; }
+
+.icon-to-mobile,
+.symbol-to-mobile { background-image: url('../img/to-mobile.png'); background-repeat: no-repeat; }
+
+.symbol-visa { background-image: url('../img/visa.png'); background-repeat: no-repeat; }
+
